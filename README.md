@@ -1,4 +1,4 @@
-# 2021-22--LumenProject-photos
+LumenProject-Details
 July - 2021 - ForeverIoT_MasterBoard
 Sept - 2021 - AMT StickyRX - 107290_REV000
 Nov  - 2021 - BiPIR Sensor Board
